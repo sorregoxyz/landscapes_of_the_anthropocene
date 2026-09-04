@@ -1,0 +1,24 @@
+﻿id,process,description
+P01,mining,Extraction of minerals or geological resources
+P02,quarrying,Extraction of stone limestone sand or other surface materials
+P03,drilling,Extraction through wells or boreholes
+P04,deforestation,Removal of forest or woodland
+P05,cultivation,Transformation of land for agricultural production
+P06,irrigation,Artificial distribution of water for cultivation
+P07,dam_construction,Modification of waterways through dam infrastructure
+P08,river_channelization,Artificial modification or confinement of river courses
+P09,water_storage,Artificial accumulation or storage of water
+P10,desalination,Removal of salt from seawater or saline water
+P11,urban_expansion,Expansion of built settlement into undeveloped land
+P12,land_reclamation,Creation or recovery of usable land through modification
+P13,landfill,Concentration and burial of waste
+P14,waste_accumulation,Accumulation of discarded materials
+P15,solar_generation,Large-scale energy production through solar infrastructure
+P16,wind_generation,Large-scale energy production through wind infrastructure
+P17,road_construction,Construction of roads and transport corridors
+P18,port_development,Transformation of coastal landscapes for maritime infrastructure
+P19,coastal_protection,Modification of coastlines to control erosion or flooding
+P20,erosion,Loss or displacement of soil or geological material
+P21,flooding,Inundation of land
+P22,drought,Landscape transformation associated with prolonged water deficit
+P23,glacial_retreat,Reduction or disappearance of glacial ice

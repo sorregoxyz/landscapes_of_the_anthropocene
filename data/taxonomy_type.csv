@@ -1,0 +1,8 @@
+﻿id,type,description
+T01,landscape,One specific landscape explored through a sequence of images
+T02,comparison,Several landscapes compared around a shared theme
+T03,before_after,The same landscape observed at different moments
+T04,detail,A focused observation of a particular feature
+T05,question,A landscape presented primarily through a question
+T06,community,A landscape submitted by someone outside the core team
+T07,series,A sequence of landscapes organized around a recurring theme

@@ -1,0 +1,13 @@
+﻿id,category,description
+C01,extraction,Landscapes shaped by the removal of geological or material resources
+C02,agriculture,Landscapes transformed through cultivation and food production
+C03,energy,Landscapes associated with energy production
+C04,water,Landscapes organized around the transformation or movement of water
+C05,urbanization,Landscapes transformed through settlement and urban expansion
+C06,industry,Landscapes shaped by industrial production
+C07,transport,Landscapes shaped by systems of movement and circulation
+C08,waste,Landscapes produced through disposal or accumulation of waste
+C09,containment,Landscapes shaped by enclosure or territorial control
+C10,climate,Landscapes visibly transformed through climatic processes or responses
+C11,infrastructure,Landscapes dominated or reorganized by infrastructure
+C12,restoration,Landscapes undergoing ecological or environmental restoration
