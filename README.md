@@ -1,6 +1,6 @@
 # Landscapes of the Anthropocene
 
-**Landscapes of the Anthropocene** is a growing visual atlas of places transformed by human activity.
+**Landscapes of the Anthropocene** is a growing visual atlas of places transformed by human activity. Initially, it will be posted on Instagram: https://bit.ly/468RJ4k
 
 It treats satellite imagery as a way of observing the physical traces of extraction, agriculture, energy production, urban growth, water management, waste, infrastructure, and climate change. Each place is recorded as a landscape entry and can become an Instagram carousel: a short visual publication that combines images, orientation, interpretation, and a question.
 
