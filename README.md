@@ -10,7 +10,7 @@ The project is deliberately built as a small, legible data system. It can be use
 
 
 
-*Below, you can find detailed instructions for running a project like this one. It describes data management, communication, and storage strategies. Feel free to use it or adapt it by following the appropiated CC license instructions*
+**Below, you can find detailed instructions for running a project like this one. It describes data management, communication, and storage strategies. Feel free to use it or adapt it by following the appropiated CC license instructions.**
 
 ## How the project works
 
