@@ -1,0 +1,86 @@
+﻿id,place,location,country,lat_dms,lng_dms,lat,lng,type,series_type,extra_info
+source_SETX01,Seminole,Texas,USA," 32°43'45.92""N","102°28'52.19""W",32.72942222,-102.4811639,landscape,,
+source_SETX02,Seminole,Texas,USA," 32°46'28.68""N","102°57'30.47""W",32.77463333,-102.9584639,landscape,,
+source_SETX03,Seminole,Texas,USA," 32°39'42.08""N","102°47'39.82""W",32.66168889,-102.7943944,landscape,,
+source_SETX04,Seminole,Texas,USA," 32°46'55.76""N","102°57'30.18""W",32.78215556,-102.9583833,landscape,,
+source_SETX05,Seminole,Texas,USA," 32°40'54.56""N","102°42'32.55""W",32.68182222,-102.7090417,landscape,,
+source_SETX06,Seminole,Texas,USA," 32°42'4.08""N","102°39'1.80""W",32.70113333,-102.6505,landscape,,
+source_SETX07,Seminole,Texas,USA," 33° 2'7.93""N","103°12'10.98""W",33.03553611,-103.20305,landscape,,
+source_SETX08,Seminole,Texas,USA," 33° 3'53.91""N","103°15'3.46""W",33.064975,-103.2509611,landscape,,
+source_SETX09,Seminole,Texas,USA," 32°46'23.54""N","102°29'53.44""W",32.77320556,-102.4981778,landscape,,
+source_SETX10,Seminole,Texas,USA," 32°47'20.01""N","102°29'6.73""W",32.78889167,-102.4852028,landscape,,
+source_MFS01,Sorriso,Mato Grosso ,Brazil," 12°35'27.47""S"," 55°43'12.30""W",-12.59096389,-55.72008333,series,monoculture_farming,soja
+source_MFS02,Sorriso,Mato Grosso ,Brazil," 12°26'52.75""S"," 56°11'22.89""W",-12.44798611,-56.18969167,series,monoculture_farming,soja
+source_MFS03,Mancha Real,Andalucia,Spain," 37°47'3.75""N","  3°38'4.91""W",37.784375,-3.634697222,series,monoculture_farming,olives
+source_MFS04,Mancha Real,Andalucia,Spain," 37°46'58.31""N","  3°37'50.19""W",37.78286389,-3.630608333,series,monoculture_farming,olives
+source_MFS05,Simpang Tiga ,Perak,Malaysia,"  0°31'19.55""N","101°31'37.32""E",0.522097222,101.5270333,series,monoculture_farming,palm oil
+source_MFS06,Simpang Tiga ,Perak,Malaysia,"  0°31'9.37""N","101°31'42.87""E",0.519269444,101.528575,series,monoculture_farming,palm oil
+source_MFS07,Chappell,Nebraska,USA," 41° 8'17.16""N","102°22'15.30""W",41.1381,-102.3709167,series,monoculture_farming,corn
+source_MFS08,Chappell,Nebraska,USA," 41° 8'16.08""N","102°20'29.40""W",41.1378,-102.3415,series,monoculture_farming,corn
+source_MFS09,Riverina,New South Wales,Australia," 35°26'50.29""S","145°39'1.84""E",-35.44730278,145.6505111,series,monoculture_farming,rice
+source_MFS10,Riverina,New South Wales,Australia," 35°26'21.25""S","145°37'51.74""E",-35.43923611,145.6310389,series,monoculture_farming,rice
+source_ADCH01,Atacama desert,Iquique,Chile," 20°12'18.48""S"," 70° 2'49.24""W",-20.20513333,-70.04701111,landscape,,
+source_ADCH02,Atacama desert,Iquique,Chile," 20°12'10.53""S"," 70° 2'50.18""W",-20.202925,-70.04727222,landscape,,
+source_ADCH03,Atacama desert,Iquique,Chile," 20°12'11.77""S"," 70° 2'30.73""W",-20.20326944,-70.04186944,landscape,,
+source_ADCH04,Atacama desert,Arica,Chile," 18°31'45.73""S"," 70°14'59.55""W",-18.52936944,-70.249875,landscape,,
+source_ADCH05,Atacama desert,San Pedro de Atacama,Chile," 23°30'36.49""S"," 68°22'22.36""W",-23.51013611,-68.37287778,landscape,,
+source_ADCH06,Atacama desert,San Pedro de Atacama,Chile," 23°29'25.11""S"," 68°20'39.86""W",-23.49030833,-68.34440556,landscape,,
+source_ADCH07,Atacama desert,San Pedro de Atacama,Chile," 23°29'30.64""S"," 68°20'54.37""W",-23.49184444,-68.34843611,landscape,,
+source_ADCH08,Atacama desert,San Pedro de Atacama,Chile," 23°39'1.27""S"," 68°19'23.42""W",-23.65035278,-68.32317222,landscape,,
+source_ADCH09,Atacama desert,San Pedro de Atacama,Chile," 23°37'17.53""S"," 68°20'32.58""W",-23.62153611,-68.34238333,landscape,,
+source_ADCH10,Atacama desert,San Pedro de Atacama,Chile," 23°38'22.54""S"," 68°19'22.37""W",-23.63959444,-68.32288056,landscape,,
+source_ADCH11,Atacama desert,San Pedro de Atacama,Chile," 23°37'44.70""S"," 68°20'35.01""W",-23.62908333,-68.34305833,,,
+source_ADCH12,Atacama desert,San Pedro de Atacama,Chile," 23°37'0.45""S"," 68°19'39.27""W",-23.61679167,-68.327575,,,
+source_ASCA01,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 45° 5'54.49""N"," 59°34'52.12""E",45.09846944,59.58114444,landscape,,
+source_ASCA02,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 45°45'20.70""N"," 59° 0'53.20""E",45.75575,59.01477778,landscape,,
+source_ASCA03,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 45°39'54.78""N"," 59°55'8.16""E",45.66521667,59.91893333,landscape,,
+source_ASCA04,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 45° 6'38.15""N"," 59°13'41.44""E",45.11059722,59.22817778,landscape,,
+source_ASCA05,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 45° 8'35.41""N"," 59°20'22.00""E",45.14316944,59.33944444,landscape,,
+source_ASCA06,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°40'6.80""N"," 59°33'17.29""E",44.66855556,59.55480278,landscape,,
+source_ASCA07,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 43°46'51.33""N"," 59° 2'43.44""E",43.780925,59.0454,landscape,,
+source_ASCA08,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 43°49'24.03""N"," 58°51'38.82""E",43.82334167,58.86078333,landscape,,
+source_ASCA09,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 43°42'50.36""N"," 59° 1'16.63""E",43.71398889,59.02128611,landscape,,
+source_ASCA10,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 43°33'3.67""N"," 59°35'41.38""E",43.55101944,59.59482778,landscape,,
+source_ASTL01,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°58'53.67""N"," 59°37'39.80""E",44.981575,59.62772222,before_after,,1973
+source_ASTL02,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°58'53.67""N"," 59°37'39.80""E",44.981575,59.62772222,before_after,,1984
+source_ASTL03,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°58'53.67""N"," 59°37'39.80""E",44.981575,59.62772222,before_after,,1990
+source_ASTL04,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°58'53.67""N"," 59°37'39.80""E",44.981575,59.62772222,before_after,,1993
+source_ASTL05,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°58'53.67""N"," 59°37'39.80""E",44.981575,59.62772222,before_after,,2000
+source_ASTL06,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°58'53.67""N"," 59°37'39.80""E",44.981575,59.62772222,before_after,,2003
+source_ASTL07,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°58'53.67""N"," 59°37'39.80""E",44.981575,59.62772222,before_after,,2007
+source_ASTL08,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°58'53.67""N"," 59°37'39.80""E",44.981575,59.62772222,before_after,,2010
+source_ASTL09,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°58'53.67""N"," 59°37'39.80""E",44.981575,59.62772222,before_after,,2013
+source_ASTL10,Aral sea,Central Asia,"""Kazakhstan, Uzbekistan"""," 44°58'53.67""N"," 59°37'39.80""E",44.981575,59.62772222,before_after,,2017
+source_ATCA01,Athabasca,Alberta,Canada," 57°10'48.68""N","111°33'17.03""W",57.18018889,-111.5547306,landscape,,
+source_ATCA02,Athabasca,Alberta,Canada," 57°10'9.50""N","111°36'43.50""W",57.16930556,-111.6120833,landscape,,
+source_ATCA03,Athabasca,Alberta,Canada," 57°17'43.83""N","111°45'0.00""W",57.29550833,-111.75,landscape,,
+source_ATCA04,Athabasca,Alberta,Canada," 57°20'17.97""N","111°46'32.45""W",57.338325,-111.7756806,landscape,,
+source_ATCA05,Athabasca,Alberta,Canada," 57°20'19.55""N","111°45'12.21""W",57.33876389,-111.7533917,landscape,,
+source_ATCA06,Athabasca,Alberta,Canada," 57°23'0.96""N","111° 5'27.43""W",57.3836,-111.0909528,landscape,,
+source_ATCA07,Athabasca,Alberta,Canada," 57°13'43.87""N","111°33'42.34""W",57.22885278,-111.5617611,landscape,,
+source_ATCA08,Athabasca,Alberta,Canada," 57°19'12.55""N","111°34'39.04""W",57.32015278,-111.5775111,landscape,,
+source_ATCA09,Athabasca,Alberta,Canada," 57° 1'5.90""N","111°36'54.88""W",57.01830556,-111.6152444,landscape,,
+source_ATCA10,Athabasca,Alberta,Canada," 57° 3'1.50""N","111°35'37.28""W",57.05041667,-111.5936889,landscape,,
+source_ATCA11,Athabasca,Alberta,Canada," 56°59'3.63""N","111°37'2.91""W",56.98434167,-111.617475,landscape,,
+source_ATCA12,Athabasca,Alberta,Canada," 56°59'59.19""N","111°40'43.00""W",56.999775,-111.6786111,landscape,,
+source_BSIN01,Bhadla Solar Park,Rajasthan,India," 27°29'54.23""N"," 71°57'34.87""E",27.49839722,71.95968611,landscape,,
+source_BSIN02,Bhadla Solar Park,Rajasthan,India," 27°29'37.38""N"," 71°54'54.95""E",27.49371667,71.91526389,landscape,,
+source_BSIN03,Bhadla Solar Park,Rajasthan,India," 27°30'1.46""N"," 71°55'49.50""E",27.50040556,71.93041667,landscape,,
+source_BSIN04,Bhadla Solar Park,Rajasthan,India," 27°29'7.24""N"," 71°54'35.40""E",27.48534444,71.90983333,landscape,,
+source_BSIN05,Bhadla Solar Park,Rajasthan,India," 27°28'55.34""N"," 71°57'50.86""E",27.48203889,71.96412778,landscape,,
+source_BSIN06,Bhadla Solar Park,Rajasthan,India," 27°30'6.43""N"," 71°57'2.93""E",27.50178611,71.95081389,landscape,,
+source_BSIN07,Bhadla Solar Park,Rajasthan,India," 27°30'47.54""N"," 71°57'23.94""E",27.51320556,71.95665,landscape,,
+source_BSIN08,Bhadla Solar Park,Rajasthan,India," 27°32'12.98""N"," 71°54'33.36""E",27.53693889,71.90926667,landscape,,
+source_BSIN09,Bhadla Solar Park,Rajasthan,India," 27°31'23.04""N"," 71°57'53.10""E",27.52306667,71.96475,landscape,,
+source_BSIN10,Bhadla Solar Park,Rajasthan,India," 27°27'48.73""N"," 71°58'32.90""E",27.46353611,71.97580556,landscape,,
+source_BSIN11,Bhadla Solar Park,Rajasthan,India," 27°28'36.02""N"," 71°59'13.73""E",27.47667222,71.98714722,landscape,,
+source_PNCL01,Panama Canal,,Panama,"  9° 7'7.59""N"," 79°43'53.25""W",9.118775,-79.73145833,landscape,,
+source_PNCL02,Panama Canal,,Panama,"  9° 7'6.01""N"," 79°42'17.28""W",9.118336111,-79.7048,landscape,,
+source_PNCL03,Panama Canal,,Panama,"  9° 2'38.96""N"," 79°38'53.42""W",9.044155556,-79.64817222,landscape,,
+source_PNCL04,Panama Canal,,Panama,"  9° 0'23.12""N"," 79°36'12.68""W",9.006422222,-79.60352222,landscape,,
+source_PNCL05,Panama Canal,,Panama,"  8°59'45.20""N"," 79°35'42.83""W",8.995888889,-79.59523056,landscape,,
+source_PNCL06,Panama Canal,,Panama,"  8°59'9.46""N"," 79°35'31.04""W",8.985961111,-79.59195556,landscape,,
+source_PNCL07,Panama Canal,,Panama,"  9° 6'49.59""N"," 79°44'53.19""W",9.113775,-79.74810833,landscape,,
+source_PNCL08,Panama Canal,,Panama,"  8°57'57.54""N"," 79°34'9.86""W",8.965983333,-79.56940556,landscape,,
+source_PNCL09,Panama Canal,,Panama,"  8°57'33.49""N"," 79°33'53.05""W",8.959302778,-79.56473611,landscape,,
+source_PNCL10,Panama Canal,,Panama,"  8°58'33.56""N"," 79°35'4.08""W",8.975988889,-79.58446667,landscape,,
